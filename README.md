@@ -24,4 +24,4 @@ I've worked with various types of projects and have used multiple programming la
 - ⚡ Fun fact: I'm an introvert but I love having friends. I love meeting people who are passionate about their craft, getting inspired and learning something from them.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codemickeycode&show_icons=&private_count=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemickeycode)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemickeycode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
