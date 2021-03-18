@@ -12,7 +12,7 @@ I've worked with various types of projects and have used multiple programming la
 - 👯 I’m looking to collaborate on Python Community projects
 - 🤔 I’m looking for help with [PythonPH](https://python.ph) events - always looking for guest speakers and sponsors (industry and academic partners)
 - 💬 Ask me about:
-    - building/growing your Python team through training and coaching
+    - Building/growing your Python team through training and coaching
     - The Python Community
     - Software Engineering
     - Coffee ☕
