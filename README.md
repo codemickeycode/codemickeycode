@@ -9,7 +9,7 @@ I've worked with various types of projects and have used multiple programming la
 
 - 🔭 I’m currently working on simple automation tools for PythonPH and weekly Python projects
 - 🌱 I’m currently learning teaching, coaching and entrepreneurship
-- 👯 I’m looking to collaborate on Python community projects
+- 👯 I’m looking to collaborate on Python Community projects
 - 🤔 I’m looking for help with [PythonPH](https://python.ph) events - looking for guest speakers and sponsors
 - 💬 Ask me about Python, the Python Community, Software Engineering, Coffee ☕, Philippine beaches 🌊 and Filipino Food 🍽️
 - 📫 How to reach me: @codemickeycode
