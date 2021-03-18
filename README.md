@@ -23,4 +23,5 @@ I've worked with various types of projects and have used multiple programming la
     - Email: codemickeycode[at]gmail[dot]com
 - ⚡ Fun fact: I'm an introvert but I love having friends. I love meeting people who are passionate about their craft, getting inspired and learning something from them.
 
-[![Mickey's GitHub stats](https://github-readme-stats.vercel.app/api?username=codemickeycode)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codemickeycode)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemickeycode)](https://github.com/anuraghazra/github-readme-stats)
