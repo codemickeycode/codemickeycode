@@ -12,6 +12,8 @@ I've worked with various types of projects and have used multiple programming la
 - 👯 I’m looking to collaborate on Python Community projects
 - 🤔 I’m looking for help with [PythonPH](https://python.ph) events - looking for guest speakers and sponsors
 - 💬 Ask me about Python, the Python Community, Software Engineering, Coffee ☕, Philippine beaches 🌊 and Filipino Food 🍽️
-- 📫 How to reach me: @codemickeycode
+- 📫 How to reach me: 
+    - Message me on LinkedIn: https://www.linkedin.com/in/codemickeycode
+    - Email: codemickeycode[at]gmail[dot]com
 - ⚡ Fun fact: I'm an introvert but I love having friends
 
