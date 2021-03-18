@@ -11,7 +11,13 @@ I've worked with various types of projects and have used multiple programming la
 - 🌱 I’m currently learning teaching, coaching and entrepreneurship
 - 👯 I’m looking to collaborate on Python Community projects
 - 🤔 I’m looking for help with [PythonPH](https://python.ph) events - looking for guest speakers and sponsors
-- 💬 Ask me about building/growing your Python team, the Python Community, Software Engineering, Coffee ☕, Philippine beaches 🌊 and Filipino Food 🍽️
+- 💬 Ask me about:
+    - building/growing your Python team
+    - the Python Community
+    - Software Engineering
+    - Coffee ☕
+    - Philippine beaches 🌊
+    - Filipino Food 🍽️
 - 📫 How to reach me: 
     - Message me on LinkedIn: [codemickeycode](https://www.linkedin.com/in/codemickeycode)
     - Email: codemickeycode[at]gmail[dot]com
