@@ -10,7 +10,7 @@ I've worked with various types of projects and have used multiple programming la
 - 🔭 I’m currently working on simple automation tools for PythonPH and weekly Python projects
 - 🌱 I’m currently learning teaching, coaching and entrepreneurship
 - 👯 I’m looking to collaborate on Python Community projects
-- 🤔 I’m looking for help with [PythonPH](https://python.ph) events - looking for guest speakers and sponsors
+- 🤔 I’m looking for help with [PythonPH](https://python.ph) events - always looking for guest speakers and sponsors (industry and academic partners)
 - 💬 Ask me about:
     - building/growing your Python team through training and coaching
     - The Python Community
@@ -21,5 +21,5 @@ I've worked with various types of projects and have used multiple programming la
 - 📫 How to reach me: 
     - Message me on LinkedIn: [codemickeycode](https://www.linkedin.com/in/codemickeycode)
     - Email: codemickeycode[at]gmail[dot]com
-- ⚡ Fun fact: I'm an introvert but I love having friends
+- ⚡ Fun fact: I'm an introvert but I love having friends. I love meeting people who are passionate about their craft, getting inspired and learning something from them.
 
