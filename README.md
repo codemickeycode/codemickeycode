@@ -30,4 +30,4 @@ I've worked with various types of projects and have used multiple programming la
 
 
 ## Links
-[My WFH Workspace Setup](https://inbytes.dev/workspaces/8-codemickeycode-workspace)
+- [My WFH Workspace Setup](https://inbytes.dev/workspaces/8-codemickeycode-workspace)
