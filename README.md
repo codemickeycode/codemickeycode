@@ -33,11 +33,13 @@ I've worked with various types of projects and have used multiple programming la
 
 
 ## Links
+
+#### Personal Stuff
 - [My WFH Workspace Setup](https://inbytes.dev/workspaces/8-codemickeycode-workspace)
 - [codemickeycode.com](https://codemickeycode.com)
 
-### Work
+#### Work
 - [CodeHappy](https://codehappy.ph)
 
-### Community
+#### Community
 - [PythonPH](https://python.ph)
