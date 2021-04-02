@@ -39,7 +39,7 @@ I've worked with various types of projects and have used multiple programming la
 - [codemickeycode.com](https://codemickeycode.com)
 
 #### Work
-- [CodeHappy](https://codehappy.ph)
+- [CodeHappy.ph](https://codehappy.ph)
 
 #### Community
 - [PythonPH](https://python.ph)
