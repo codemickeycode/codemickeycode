@@ -7,7 +7,7 @@ I've worked with various types of projects and have used multiple programming la
 **codemickeycode/codemickeycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on simple automation tools for PythonPH and weekly Python projects
+- 🔭 I’m currently working on simple automation tools for PythonPH and hobby Python projects
 - 🌱 I’m currently learning teaching, coaching and entrepreneurship
 - 👯 I’m looking to collaborate on Python Community projects
 - 🤔 I’m looking for help with [PythonPH](https://python.ph) events - always looking for guest speakers and sponsors (industry and academic partners)
