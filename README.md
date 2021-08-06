@@ -11,16 +11,6 @@ I've worked with various types of projects and have used multiple programming la
 - 🌱 I’m currently learning teaching, coaching and entrepreneurship
 - 👯 I’m looking to collaborate on Python Community projects
 - 🤔 I’m looking for help with [PythonPH](https://python.ph) events - always looking for guest speakers and sponsors (industry and academic partners)
-- 💬 Ask me about:
-    - Building/growing your Python team through training and coaching
-    - The Python Community
-    - Software Engineering
-    - Coffee ☕
-    - Philippine beaches 🌊
-    - Filipino Food 🍽️
-- 📫 How to reach me: 
-    - Message me on LinkedIn: [codemickeycode](https://www.linkedin.com/in/codemickeycode)
-    - Email: codemickeycode[at]gmail[dot]com
 - ⚡ Fun fact: I'm an introvert but I love having friends. I love meeting people who are passionate about their craft, getting inspired and learning something from them.
 
 ## Tech Community Contributions
@@ -35,11 +25,7 @@ I've worked with various types of projects and have used multiple programming la
 ## Links
 
 #### Personal Stuff
-- [My WFH Workspace Setup](https://inbytes.dev/workspaces/8-codemickeycode-workspace)
 - [codemickeycode.com](https://codemickeycode.com)
-
-#### Work
-- [CodeHappy.ph](https://codehappy.ph)
 
 #### Community
 - [PythonPH](https://python.ph)
