@@ -29,3 +29,7 @@ I've worked with various types of projects and have used multiple programming la
 
 #### Community
 - [PythonPH](https://python.ph)
+
+
+## Support
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/codemickeycode)
