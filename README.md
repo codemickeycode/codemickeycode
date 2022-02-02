@@ -8,7 +8,7 @@ I've worked with various types of projects and have used multiple programming la
 -->
 
 - 🔭 I’m currently working on simple automation tools for PythonPH and hobby Python projects
-- 🌱 I’m currently learning teaching, coaching and entrepreneurship
+- 🌱 I’m currently learning entrepreneurship and business analytics
 - 👯 I’m looking to collaborate on Python Community projects
 - 🤔 I’m looking for help with [PythonPH](https://python.ph) events - always looking for guest speakers and sponsors (industry and academic partners)
 - ⚡ Fun fact: I'm an introvert but I love having friends. I love meeting people who are passionate about their craft, getting inspired and learning something from them.
