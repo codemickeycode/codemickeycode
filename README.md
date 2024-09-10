@@ -1,5 +1,5 @@
 ## Hi there, I'm Mickey! 👋
-I'm a 15 years experienced Software Developer based in Manila.
+I'm a 15+ years experienced Software Developer based in Manila.
 
 I've worked with various types of projects and have used multiple programming languages. In 2012, I fell in love with Python and its community. Since then, several amazing things happened and now I've been using Python as my programming language of choice for work and hobby projects.
 
