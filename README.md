@@ -3,7 +3,7 @@ I'm a **software engineer turned ecosystem builder**, working at the intersectio
 
 I’ve worked on various types of projects and have used multiple programming languages, but in 2012 I fell in love with Python and its community.
 
-Since 2012, several amazing things happened and **Python** has been at the center of my journey—not just as a programming language, but as a community I’ve chosen to serve. That commitment keeps me asking: **what do I need to become to serve this community better?** The answer has taken me from writing code to building systems, from organizing events to shaping people-centered systems that make it easier for others to plug in.
+Since then, several amazing things happened and **Python** has been at the center of my journey—not just as a programming language, but as a community I’ve chosen to serve. That commitment keeps me asking: **what do I need to become to serve this community better?** The answer has taken me from writing code to building systems, from organizing events to shaping people-centered systems that make it easier for others to plug in.
 
 <!--
 **codemickeycode/codemickeycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
