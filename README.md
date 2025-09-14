@@ -1,17 +1,17 @@
 ## Hi there, I'm Mickey! 👋
-I'm a 15+ years experienced Software Developer based in Manila.
+I'm a software engineer turned ecosystem builder, working at the intersection of technology and social impact.
 
-I've worked with various types of projects and have used multiple programming languages. In 2012, I fell in love with Python and its community. Since then, several amazing things happened and now I've been using Python as my programming language of choice for work and hobby projects.
+Since 2012, Python has been at the center of my journey—not just as a language, but as a community I’ve chosen to serve. That commitment keeps me asking: **what do I need to become to serve this community better?**. The answer has taken me from writing code to building systems, from organizing events to shaping sustainable pathways for others.
 
 <!--
 **codemickeycode/codemickeycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on simple automation tools for PythonPH and hobby Python projects
-- 🌱 I’m currently learning entrepreneurship and data analytics
-- 👯 I’m looking to collaborate on Python Community projects
-- 🤔 I’m looking for help with [PythonPH](https://python.ph) events - always looking for guest speakers and sponsors (industry and academic partners)
-- ⚡ Fun fact: I'm an introvert but I love having friends. I love meeting people who are passionate about their craft, getting inspired and learning something from them.
+- 🔭 I'm currently a Program Coordinator at Ateneo TRL — working on Digital Public Infrastructure (DPI) for inclusive identity, payments, and data exchange
+- 🌱 I’m learning entrepreneurship and data-driven sustainability to strengthen both community and civic tech ecosystems.
+- 👯 Open to collaborations on open source and Python community initiatives that grow leadership and resilience.
+- 🤝 At [PythonPH](https://python.ph) — leading sponsorships, financial sustainability, and succession planning through **Kaizend** (training leaders, preventing burnout, sustaining morale)
+- ⚡ Fun fact: I’m an introvert, but I thrive when surrounded by people who care deeply about their craft and communities.
 
 ## Tech Community Contributions
 - I co-founded PythonPH in 2013. I spend a lot of my free time as a volunteer doing admin work, handling overall operations, coaching and mentoring the next gen leaders, and organizing events for the community.
