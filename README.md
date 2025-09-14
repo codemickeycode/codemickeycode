@@ -8,7 +8,7 @@ Since 2012, Python has been at the center of my journey—not just as a language
 -->
 
 - 🔭 I'm currently a Program Coordinator at Ateneo Technical Resource Lab (TRL) — working on **Digital Public Infrastructure (DPI)** for inclusive identity, payments, and data exchange
-- 🌱 I’m learning entrepreneurship and data-driven sustainability to strengthen both community and civic tech ecosystems.
+- 🌱 I’m learning entrepreneurship and data-driven sustainability to strengthen both grassroots open-source community and GovTech tech ecosystems.
 - 👯 Open to collaborations on open source and Python community initiatives that grow leadership and resilience.
 - 🤝 At **[PythonPH](https://python.ph)** — leading sponsorships, financial sustainability, and succession planning through **Kaizend** (training leaders, preventing burnout, sustaining morale)
 - ⚡ Fun fact: I’m an introvert, but I thrive when surrounded by people who care deeply about their craft and communities.
