@@ -1,7 +1,7 @@
 ## Hi there, I'm Mickey! 👋
 I'm a software engineer turned ecosystem builder, working at the intersection of technology and social impact.
 
-Since 2012, Python has been at the center of my journey—not just as a language, but as a community I’ve chosen to serve. That commitment keeps me asking: **what do I need to become to serve this community better?**. The answer has taken me from writing code to building systems, from organizing events to shaping sustainable pathways for others.
+Since 2012, **Python** has been at the center of my journey—not just as a programming language, but as a community I’ve chosen to serve. That commitment keeps me asking: **what do I need to become to serve this community better?**. The answer has taken me from writing code to building systems, from organizing events to shaping sustainable pathways for others.
 
 <!--
 **codemickeycode/codemickeycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
