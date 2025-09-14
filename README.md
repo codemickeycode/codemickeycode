@@ -15,7 +15,7 @@ Since 2012, **Python** has been at the center of my journey—not just as a prog
 
 ## Tech Community Contributions
 - I co-founded PythonPH in 2013. I spend a lot of my free time as a volunteer doing admin work, handling overall operations, coaching and mentoring the next gen leaders, and organizing events for the community.
-- I’m also a Mentor/Advisor at PyLadies Manila, supporting women in Python through mentorship and by building safe spaces for them with events and programs made especially for them.
+- I’m also a Mentor/Advisor at [PyLadies Manila](https://pyladiesmanila.github.io), supporting women in Python through mentorship and by building safe spaces for them with events and programs made especially for them.
 - I've been a [PSF Fellow member](https://pyfound.blogspot.com/2019/08/python-software-foundation-fellow.html) since 2019
 
 ## Support
