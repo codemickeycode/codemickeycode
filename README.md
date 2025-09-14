@@ -11,7 +11,7 @@ Since then, several amazing things happened and **Python** has been at the cente
 
 - 🔭 I'm currently a **Program Coordinator at Ateneo Technical Resource Lab (TRL)** — working on **Digital Public Infrastructure (DPI)** for inclusive identity, payments, and data exchange
 - 🌱 I’m learning **entrepreneurship** and **data-driven leadership** to strengthen both grassroots open-source communities and GovTech ecosystems.
-- 👯 Open to collaborations on open source and Python community initiatives that grow leadership and resilience.
+- 👯 I'm open to collaborations on open source and Python community initiatives that grow leadership and resilience.
 - 🤝 At **[PythonPH](https://python.ph)**, I lead **sponsorships**, **financial sustainability**, and **succession planning** through **Kaizend**, our core volunteer training program that develops technical skills, soft skills, and life skills (while preventing burnout and sustaining morale).
 - 👩‍💻 I’m also a Mentor/Advisor at **[PyLadies Manila](https://pyladiesmanila.github.io)**, supporting women in Python through mentorship and by building safe spaces for them with events and programs made especially for them.
 - ⚡ Fun fact: I’m an **introvert**, but I thrive when surrounded by people who care deeply about their craft and communities.
