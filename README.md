@@ -15,7 +15,8 @@ Since 2012, **Python** has been at the center of my journey—not just as a prog
 
 ## Tech Community Contributions
 - I co-founded PythonPH in 2013. I spend a lot of my free time as a volunteer doing admin work, handling overall operations, coaching and mentoring the next gen leaders, and organizing events for the community.
-- I'm a [PSF Fellow member](https://pyfound.blogspot.com/2019/08/python-software-foundation-fellow.html) since 2019
+- I’m also a Mentor/Advisor at PyLadies Manila, supporting women in Python through mentorship and by building safe spaces for them with events made especially for them.
+- I've been a [PSF Fellow member](https://pyfound.blogspot.com/2019/08/python-software-foundation-fellow.html) since 2019
 
 ## Support
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/codemickeycode)
