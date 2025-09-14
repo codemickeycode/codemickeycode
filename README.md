@@ -32,4 +32,5 @@ I've worked with various types of projects and have used multiple programming la
 
 #### Community
 - [PythonPH](https://python.ph)
+- [PyLadies Manila](https://pyladiesmanila.github.io)
 
